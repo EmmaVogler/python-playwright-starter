@@ -13,7 +13,7 @@ or
 
 ## Record the interactions
 
-> python -m playwright codegen https://operaciones.energiademisiones.com.ar/sist-desp-develop/public/board_despacho --target python
+> playwright codegen https://example.com --target python
 
 
 
