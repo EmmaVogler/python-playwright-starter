@@ -13,7 +13,8 @@ or
 
 ## Record the interactions
 
-> playwright codegen https://example.com --target python
+> python -m playwright codegen --target python -o script.py https://www.saucedemo.com/
+
 
 
 
